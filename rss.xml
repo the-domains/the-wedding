@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Wedding]]></title>
+        <description><![CDATA[The Wedding]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Dec 2015 14:37:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["A little rain with a lot of love"]]></title>
+            <description><![CDATA[<article><h1>"A little rain with a lot of love"</h1><p>Some of my favorite photographs are when the weather looks its worst.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7223073be41a3b05584df023f4fa13bc4c5d8018.jpg"></article>]]></description>
+            <link>undefineda-little-rain-with-a-lot-of-love/index.html</link>
+            <guid isPermaLink="false">ab1fa273-d6b2-4712-bc55-9876f75f387e</guid>
+            <pubDate>Tue, 29 Dec 2015 14:37:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
